@@ -22,5 +22,6 @@ I trained the model during 2 epochs. It is quite slow
 The loss is around 0.2 using the entire dataset.
 I implemented another function to split the dataset into test, validation and train
 
+To improve the results, I can test other models especially for the decoding part like LLMs. It is possible to fine-tune them on CAD dataset.
 
 I had not find the time to test with the given evaluation metrics.
